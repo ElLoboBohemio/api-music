@@ -6,7 +6,7 @@
 
 <h2 align="center"><a href="https://lucky-truffle-330b24.netlify.app/" target="_blank">Demo</a></h2>
 
-<a href="https://lucky-truffle-330b24.netlify.app/" target="_blank"><img src="https://i.postimg.cc/XvfyBFJP/ASD.png" alt="Previsualización del sitio"></a>
+<a href="https://lucky-truffle-330b24.netlify.app/" target="_blank"><img src="https://i.postimg.cc/zBtyNDHX/Scren.png" alt="Previsualización del sitio"></a>
 
 ## Contenidos
 
