@@ -2,7 +2,7 @@ import {configureStore, createSlice} from "@reduxjs/toolkit";
 
 const apiSlice = createSlice({
   name: 'api',
-  initialState: {data: "eminem"},
+  initialState: {data: "Ludwig van Beethoven"},
   reducers:{
     addToState(state,action){
       const apiItem = action.payload

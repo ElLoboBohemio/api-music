@@ -36,6 +36,7 @@ const SongsList = () => {
         const data = res.data.data;
         setSongs(data);
         setArtist(data[0].artist);
+        console.log(data);
       } catch (error) {
         console.log(error);
       }
