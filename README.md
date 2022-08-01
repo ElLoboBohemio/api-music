@@ -11,7 +11,7 @@
 ## Contenidos
 
 - [Herramientas](#Herramientas)
-- [Contact](#Contact)
+- [Contacto](#Contacto)
 
 ## Herramientas
 
@@ -19,7 +19,7 @@
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [MUI](https://mui.com/)
 
-## Contact
+## Contacto
 
 - GitHub [ElLoboBohemio](https://{github.com/ElLoboBohemio})
 - Twitter [@BohemioLobo](https://{twitter.com/BohemioLobo})
